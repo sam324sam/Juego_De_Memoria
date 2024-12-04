@@ -25,7 +25,7 @@ Este proyecto es un juego de **Memoria** desarrollado en **JavaScript**, **HTML*
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6)**
+- **JavaScript**
 
 ## Notas
 

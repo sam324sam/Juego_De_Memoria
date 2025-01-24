@@ -1,4 +1,7 @@
-# Juego de Memoria
+![Estado](https://img.shields.io/badge/Estado-Acabado-brightgreen?style=plastic)
+
+
+ç# Juego de Memoria
 
 Este proyecto es un juego de **Memoria** desarrollado en **JavaScript**, **HTML** y **CSS**. El objetivo del juego es encontrar pares de cartas que coincidan.
 

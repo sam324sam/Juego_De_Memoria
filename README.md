@@ -2,6 +2,10 @@
 
 Este proyecto es un juego de **Memoria** desarrollado en **JavaScript**, **HTML** y **CSS**. El objetivo del juego es encontrar pares de cartas que coincidan.
 
+<div align="center">
+  <img src="Juego_De_Memoria.png" alt="Imagen del juego de memoria js" width="300">
+</div>
+
 ## Descripción
 
 - El juego consiste en un tablero de 8x8 que contiene 32 cartas, cada una representando un carácter.

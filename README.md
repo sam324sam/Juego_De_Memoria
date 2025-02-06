@@ -51,3 +51,6 @@ La Licencia MIT es una de las licencias de software más permisivas y ampliament
 
 ### Limitación de Responsabilidad
 Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita, incluyendo, pero no limitado a, las garantías de comerciabilidad, adecuación para un propósito particular y no infracción. En ningún caso los autores o titulares de derechos de autor serán responsables de ninguna reclamación, daño u otra responsabilidad, ya sea en una acción de contrato, agravio o de otro tipo, que surja de o en conexión con el software o el uso u otros tratos en el software.
+
+## Contribuir al Proyecto
+Para conocer cómo contribuir, revisa nuestras [pautas de contribución](https://github.com/sam324sam/sam324sam/blob/main/CONTRIBUTING.md).
